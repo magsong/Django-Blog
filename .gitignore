@@ -7,3 +7,4 @@ db.sqlite3
 /static
 .DS_Store
 !/magsong.github.io/
+local_settings.py
